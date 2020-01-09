@@ -16,3 +16,7 @@ Analisar antes de fazer. Mais um clichê. A importância aqui é analisar bem a 
 Saber perder. Show dos clichês. Costumo chamar de "Iniciativa" quando preciso fazer uma tentativa de resolver algo maior, ou seja, quando uma melhoria para ser efetiva precisa da execução de várias tarefas, porém o caminho para chegar até lá é incerto, então várias iniciativas são criadas, mas nem todas precisam ser concluídas.
 
 Informe todas as "partes interessadas" (stakeholders). Evite questionamentos sobre suas atividades.
+
+Se vai dar um passo para trás depois precisa dar vários para frente. Se de certa forma algo que está sendo feito é um retrocesso, que este seja justificado por algo melhor que vem depois. Quanto tempo e qual o impacto desse passo para trás?
+
+No desenvolvimento ágil fazemos pequenas entregas, logo uma melhoria ágil serão várias entregas validadas também.
