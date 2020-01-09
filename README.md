@@ -12,3 +12,5 @@ Resolver uma coisa de cada vez. Frase bem clichê, mas é isso mesmo, cada taref
 Não faça sozinho, se houver uma equipe engajada renderá mais e haverá maior aprovação.
 
 Analisar antes de fazer. Mais um clichê. A importância aqui é analisar bem a situação para saber escolher a abordagem correta, refazer, melhorar, nem botar a mão...
+
+Saber perder. Show dos clichês. Costumo chamar de "Iniciativa" quando preciso fazer uma tentativa de resolver algo maior, ou seja, quando uma melhoria para ser efetiva precisa da execução de várias tarefas, porém o caminho para chegar até lá é incerto, então várias iniciativas são criadas, mas nem todas precisam ser concluídas.
