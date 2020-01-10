@@ -20,3 +20,7 @@ Informe todas as "partes interessadas" (stakeholders). Evite questionamentos sob
 Se vai dar um passo para trás depois precisa dar vários para frente. Se de certa forma algo que está sendo feito é um retrocesso, que este seja justificado por algo melhor que vem depois. Quanto tempo e qual o impacto desse passo para trás?
 
 No desenvolvimento ágil fazemos pequenas entregas, logo uma melhoria ágil serão várias entregas validadas também.
+
+Se precisas fazer uma gambiarra para resolver um problema, provavelmente o caminho está errado e virão outras gambiarras.
+
+
