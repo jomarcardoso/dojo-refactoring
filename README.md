@@ -23,4 +23,4 @@ No desenvolvimento ágil fazemos pequenas entregas, logo uma melhoria ágil ser�
 
 Se precisas fazer uma gambiarra para resolver um problema, provavelmente o caminho está errado e virão outras gambiarras.
 
-
+Quase todos os problemas são possíveis de resolver, as vezes falta, conhecimento, criatividade, tempo, coragem ou esforço.
