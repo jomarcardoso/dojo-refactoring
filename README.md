@@ -31,12 +31,14 @@ Analisar antes de fazer. Mais um clichê. A importância aqui é analisar bem a 
 
 Apesar de não ser o que o desenvolvedor queira essa normalmente é a alternativa mais segura e mais prática. 
 
-Deve ser substituída pelo refazer quando o esforço e o resultado final forem muito aquém de refazer.
-
 - continua funcionando
 - reaproveita o que já foi pensado
 - melhoria contínua
 - pequenas entregas
+
+O planejamento deve começar por estipular onde quer-se chegar, a meta, de preferência o cenário perfeito, bem longe. Após isso quebrar em outras metas menores e em sequência, pois lembrando que em um negócio é preciso "entrega de valor". A execução então será feita com o consentimento do time sobre essas metas. 
+
+Deve ser substituída pelo refazer quando o esforço e o resultado final forem muito aquém de refazer.
 
 ### Refazer / nem botar a mão
 
