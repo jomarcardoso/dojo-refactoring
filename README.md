@@ -11,7 +11,7 @@ Resolver uma coisa de cada vez. Frase bem clichê, mas é isso mesmo, cada taref
 
 Não faça sozinho, se houver uma equipe engajada renderá mais e haverá maior aprovação.
 
-Saber perder. Show dos clichês. Costumo chamar de "Iniciativa" quando preciso fazer uma tentativa de resolver algo maior, ou seja, quando uma melhoria para ser efetiva precisa da execução de várias tarefas, porém o caminho para chegar até lá é incerto, então várias iniciativas são criadas, mas nem todas precisam ser concluídas.
+Saber perder. Show dos clichês. Costumo chamar de "Iniciativa" quando preciso fazer uma tentativa de resolver algo maior, ou seja, quando uma melhoria para ser efetiva precisa da execução de várias tarefas, porém o caminho para chegar até lá é incerto, então várias iniciativas são criadas, mas nem todas precisam ser concluídas, pois você não deve levar adiante soluções ruins. Iniciativas são pequenos passos que podem as vezes dar certo. 
 
 Informe todas as "partes interessadas" (stakeholders). Evite questionamentos sobre suas atividades.
 
