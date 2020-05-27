@@ -23,6 +23,12 @@ Se precisas fazer uma gambiarra para resolver um problema, provavelmente o camin
 
 Quase todos os problemas são possíveis de resolver, porém as vezes falta, conhecimento, criatividade, tempo, coragem ou esforço para isso.
 
+Planejamento 👌 mais um clichê na sua cara. Digamos que você pega um código que foi escrito como se não houvesse amanhã, cada página é uma hotsite, cada componente é... não pera não tem componente não tem nada é a desordem total, então você e a equipe se convencem que precisam refazer aquilo tudo, componentizar, unificar... O Zézinho começa fazendo a parte dele "ah tem 2 botões aqui, então vou fazer um componente de botão e vamos reaproveitar", a Mariazinha nem sabe que ele fez o botão novo e vai lá e cria outro botão com o mesmo intuíto que o Zezinho. Bom até agora tá facil de arrumar, só escolher um dos botões que foi criado e jogar fora, perdemos esforço, mas nada demais, agora tanto o Zezinho como a Mariazinha são novatos, eles passaram por vários outros possíveis componentes que poderiam ter sido refeitos, porém não enxergaram e fizeram da mesma forma que era feito, antes sem padrão nenhum e sem resolver nada, e daí vamos para o próximo capítulo.
+
+### A culpa é sempre sua
+
+Culpar os outros não vai te levar a nada. O outro errou? Culpa sua se ele errou, por que você deixou ele errar? Você não precisa controlar os colegas, fazer eles te seguirem e obedecer o que você mandar. Mas como vinha falando da história da Mariazinha e o Zezinho eles são novatos, as entregas ruins que eles fizeram provavelmente não foi porque eles são preguiçosos ou burros, mas simplemente não foi planejado por ninguém o que seria feito, então eles não conseguiram ver por algum motivo uma forma melhor de executar a tarefa que lhes foi dado. Então se você culpar os outros vai conseguir brigas, se culpar a si conseguirá resultados.
+
 ## Abordagens
 
 Analisar antes de fazer. Mais um clichê. A importância aqui é analisar bem a situação para saber escolher a abordagem correta, refazer, melhorar, nem botar a mão...
