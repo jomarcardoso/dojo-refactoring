@@ -29,6 +29,10 @@ Planejamento 👌 mais um clichê na sua cara. Digamos que você pega um código
 
 Culpar os outros não vai te levar a nada. O outro errou? Culpa sua se ele errou, por que você deixou ele errar? Você não precisa controlar os colegas, fazer eles te seguirem e obedecer o que você mandar. Mas como vinha falando da história da Mariazinha e o Zezinho eles são novatos, as entregas ruins que eles fizeram provavelmente não foi porque eles são preguiçosos ou burros, mas simplemente não foi planejado por ninguém o que seria feito, então eles não conseguiram ver por algum motivo uma forma melhor de executar a tarefa que lhes foi dado. Então se você culpar os outros vai conseguir brigas, se culpar a si conseguirá resultados.
 
+### Não confie em ninguém (GOT)
+
+Que reviravolta, vim até aqui falando de paz e amor e do nada isso. Quando digo para não confiar em ninguém para você memso também, somos falhos, tem vezes que erraremos sem percebr e outros dias que vamos errar só de preguiça, então não espere isso acontecer, crie mecanismos que irão proteger seus colegas de você e deles mesmos. Dica: Integração Contínua.
+
 ## Abordagens
 
 Analisar antes de fazer. Mais um clichê. A importância aqui é analisar bem a situação para saber escolher a abordagem correta, refazer, melhorar, nem botar a mão...
