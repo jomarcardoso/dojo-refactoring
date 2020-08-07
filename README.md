@@ -23,9 +23,19 @@ Se precisas fazer uma gambiarra para resolver um problema, provavelmente o camin
 
 Quase todos os problemas são possíveis de resolver, porém as vezes falta, conhecimento, criatividade, tempo, coragem ou esforço para isso.
 
-### Criar a necessidade
+### Despertar a necessidade
 
-
+Quem nos pede um software é nosso cliente e se estamos sugerindo uma ideia para nossos colegas adotarem, somos os "vendedores, logo temos que saber como apresentar nosso produto a eles. Para isso os gatilhos de necessidade de compra são úteis [1].
+- Escassez
+- Urgência
+- Reciprocidade
+- Curiosidade
+- Antecipação
+- Porquê
+- Autoridade
+- Relação dor x prazer
+- Prova social
+- Simplicidade
 
 ### Planejamento 
 
