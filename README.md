@@ -23,6 +23,10 @@ Se precisas fazer uma gambiarra para resolver um problema, provavelmente o camin
 
 Quase todos os problemas são possíveis de resolver, porém as vezes falta, conhecimento, criatividade, tempo, coragem ou esforço para isso.
 
+### Criar a necessidade
+
+
+
 ### Planejamento 
 
 👌 Mais um clichê na sua cara. Digamos que você pega um código que foi escrito como se não houvesse amanhã, cada página é uma hotsite, cada componente é... não pera não tem componente não tem nada é a desordem total, então você e a equipe se convencem que precisam refazer aquilo tudo, componentizar, unificar... O Zézinho começa fazendo a parte dele "ah tem 2 botões aqui, então vou fazer um componente de botão e vamos reaproveitar", a Mariazinha nem sabe que ele fez o botão novo e vai lá e cria outro botão com o mesmo intuíto que o Zezinho. Bom até agora tá facil de arrumar, só escolher um dos botões que foi criado e jogar fora, perdemos esforço, mas nada demais, agora tanto o Zezinho como a Mariazinha são novatos, eles passaram por vários outros possíveis componentes que poderiam ter sido refeitos, porém não enxergaram e fizeram da mesma forma que era feito, antes sem padrão nenhum e sem resolver nada, e daí vamos para o próximo capítulo.
@@ -61,3 +65,7 @@ O que o desenvolvedor mais gosta, refazer o trabalho dos outros achando que faz 
 - Há sempre a descoberta de novas boas práticas.
 
 Nem botar a mão está diretamente associado a refazer, pois se a única opção é refazer e você não pode, então nem bota a mão.
+
+## Referências
+
+1. [10 Gatilhos Mentais para despertar a necessidade de compra do Cliente](http://www.onflag.com.br/marketing-digital/10-gatilhos-mentais-para-despertar-necessidade-compra-cliente)
